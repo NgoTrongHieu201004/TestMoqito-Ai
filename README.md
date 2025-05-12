@@ -2,7 +2,9 @@
 ------------------------------------------------------------------------------
 Thực hiện lên kế hoạch kiểm thử trang web phân biệt muỗi bằng trí tuệ nhân tạo
 ------------------------------------------------------------------------------
-Ngô Trọng hiếu_22211TT0999_Các phiên bản của muỗi_MindMap.xlsx
+ -TNC10712101_22211TT0999_NgoTrongHieu_Moqito.xlsx
+- Vertion đâu tiên được 55 testCase
+- Ngô Trọng hiếu_22211TT0999_Các phiên bản của muỗi_MindMap.xlsx
 - Viết testCase cũng như đặt ra Q&A
 - 79 TestCase dược viết ra
 - File Ngô Trọng Hiếu_22211TT0999_AI muỗi_Version0.0.1-20240503.xlsx
